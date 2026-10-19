@@ -34,7 +34,7 @@ dependencies:
   http: ^1.0.0
   dio_cookie_manager: ^3.1.0
   cookie_jar: ^4.0.3
-  dio_http2_adapter: ^2.3.0
+  dio_http2_adapter: ^2.8.0
   shared_preferences: ^2.1.2
 
 
